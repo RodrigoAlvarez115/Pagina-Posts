@@ -1,3 +1,4 @@
+ #Pagina-posts
 Primer proyecto de laravel, aplicando la mayoria de las cosas que aprendi en el canal de GOGODEV.
 Utilice 3 models relacionados entre si, uno se encarga de gestionar usuarios autentificados utilizando breeze, un modelo maneja los posts creados por estos mismos, ademas añadi una seccion de comentarios.
 Cada usuario puede ver(estando logueado por ahora, me gustaria editar eso) los posts propios, editarlos, borrarlos, en una seccion aparte, mientras que puede navegar por los que fueron creados por otros usuarios.
