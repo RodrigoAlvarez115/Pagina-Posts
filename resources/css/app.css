@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link p {
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.link :hover {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.form {
+    width: 400px;
+    margin: 10px;
+}
+.button {
+    margin: 10px;
+    padding: 10px;
+}
+.button:hover {
+    border: 1px solid black;
+}

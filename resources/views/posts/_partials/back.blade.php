@@ -1,0 +1,1 @@
+<a href="{{ back()->getTargetUrl() }}" class="blog-entry-link text-2xl text-red-500 hover:text-blue-700"><-</a>
